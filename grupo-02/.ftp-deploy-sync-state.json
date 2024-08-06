@@ -1,0 +1,249 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1722615958021,
+    "data": [
+        {
+            "type": "folder",
+            "name": "assets"
+        },
+        {
+            "type": "file",
+            "name": "daiana_rodriguez.html",
+            "size": 2406,
+            "hash": "714be3bb8f85f51c0be248ff998f7d46ed600553f1e3fe1b1b5a099738eb5e62"
+        },
+        {
+            "type": "file",
+            "name": "index.html",
+            "size": 16583,
+            "hash": "95ced95b081b5d3356d4a2833ea36651d83631b9b2b6903fdd8609eefce44d64"
+        },
+        {
+            "type": "file",
+            "name": "jorge_marinoni.html",
+            "size": 2510,
+            "hash": "1f7dc5f2532ffbaff1516c73d55624a52c84b4d793c01c83892d3a338a100065"
+        },
+        {
+            "type": "file",
+            "name": "lourdes_helman.html",
+            "size": 2346,
+            "hash": "28abba018e950d84f1940352e7225600995783aff4be2358669d1a58dff91a8e"
+        },
+        {
+            "type": "folder",
+            "name": "mimap"
+        },
+        {
+            "type": "folder",
+            "name": "mimap_JORGE_v0.1"
+        },
+        {
+            "type": "folder",
+            "name": "mimap_SANTIAGO"
+        },
+        {
+            "type": "folder",
+            "name": "old"
+        },
+        {
+            "type": "file",
+            "name": "paula_martinez_farias.html",
+            "size": 2372,
+            "hash": "2ca1bbb0e32c239ce07665fa8ef29556f8b1c71b1258eb82a26790aab58c9ff1"
+        },
+        {
+            "type": "file",
+            "name": "santiago_villanueva.html",
+            "size": 2518,
+            "hash": "d7694f996a37cd5005e7401f43adde1d5587e83d73d234d181f89a5cb28a1d7b"
+        },
+        {
+            "type": "file",
+            "name": "assets/daiana.jpeg",
+            "size": 27740,
+            "hash": "972d24d8df29e031741619040259b235b068d9817df9e28ad1cea0f90a03e7ce"
+        },
+        {
+            "type": "folder",
+            "name": "assets/css"
+        },
+        {
+            "type": "file",
+            "name": "assets/favicon.ico",
+            "size": 180747,
+            "hash": "ca91ae97d8ae822b9fe3a58597c99ed85346aa282f7c90b4904074f94b1e0a66"
+        },
+        {
+            "type": "folder",
+            "name": "assets/fonts"
+        },
+        {
+            "type": "file",
+            "name": "assets/logo.png",
+            "size": 27697,
+            "hash": "2b86b33c10c89ddae9cd2416d6b1d2a8eb19ca1688ca4e2b7aee6d534088c814"
+        },
+        {
+            "type": "file",
+            "name": "assets/logo_mimap.png",
+            "size": 6776,
+            "hash": "3c59d4ce23a54a2056813cdad853777fddbaad9a78393b3af3514d197dc49326"
+        },
+        {
+            "type": "file",
+            "name": "assets/paula.jpeg",
+            "size": 98152,
+            "hash": "23d6acf49b6c95f3ad2e92caabd24231a6ba8ea603de93f719f87844f36a73fa"
+        },
+        {
+            "type": "file",
+            "name": "mimap/index-DnXPzcGB.js",
+            "size": 293833,
+            "hash": "2bfcf44f1a05838666fd63c7ad21b4537240706bf8f0d1c42df73cb141ed6761"
+        },
+        {
+            "type": "file",
+            "name": "mimap/index.html",
+            "size": 6370,
+            "hash": "7908340b447835e4f503648f52e2be411115570ced6bff0efe6559bc46091980"
+        },
+        {
+            "type": "file",
+            "name": "mimap_JORGE_v0.1/db_connection.php",
+            "size": 324,
+            "hash": "71838675fcc0507a8de9d3eb10870fba53b9ee031985050518e0b3fd4478a977"
+        },
+        {
+            "type": "file",
+            "name": "mimap_JORGE_v0.1/index.html",
+            "size": 1197,
+            "hash": "e21da9fb0ff024f1746d332c571084b02f4968e38ff132a8e038da3e30545201"
+        },
+        {
+            "type": "file",
+            "name": "mimap_JORGE_v0.1/script.js",
+            "size": 2104,
+            "hash": "1091192f492c46de43eea8ead222622db593984229e375f3c19b5ba126a52a1f"
+        },
+        {
+            "type": "file",
+            "name": "mimap_JORGE_v0.1/search.php",
+            "size": 352,
+            "hash": "061b07d4a353d90ae9d981d992414e427fcb3d2d08a02b6fb90eade34315dd2b"
+        },
+        {
+            "type": "file",
+            "name": "mimap_JORGE_v0.1/styles.css",
+            "size": 790,
+            "hash": "13c6a6b15c530336a908eea6515086a8471ac3ba11692efcacac7addeb042532"
+        },
+        {
+            "type": "folder",
+            "name": "mimap_SANTIAGO/v0.1"
+        },
+        {
+            "type": "folder",
+            "name": "mimap_SANTIAGO/v0.11"
+        },
+        {
+            "type": "folder",
+            "name": "mimap_SANTIAGO/v0.13d"
+        },
+        {
+            "type": "folder",
+            "name": "mimap_SANTIAGO/v0.14d"
+        },
+        {
+            "type": "file",
+            "name": "old/index.html",
+            "size": 14279,
+            "hash": "d2703145d35825574f7afb989a9ffcb9d469e1efd92e6900fddf3f99a0f6d882"
+        },
+        {
+            "type": "file",
+            "name": "old/example.html",
+            "size": 2446,
+            "hash": "dc668ba77ea02238fc763f60292ab8b551e1be1a06540d4cfaf11183f9e7d65a"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/index-BDsxYmb5.css",
+            "size": 321015,
+            "hash": "54ff24a51a9b378bb422a94d9e7f72a8b31f521e81f95e2cefc36a0ba7cfd104"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/index-6amcwW-m.css",
+            "size": 321067,
+            "hash": "6943463245991ab7b39a47d47ffc1b67e902f694914176f446958ec2f500c7dd"
+        },
+        {
+            "type": "file",
+            "name": "assets/css/index-B_qLZERP.css",
+            "size": 321015,
+            "hash": "54ff24a51a9b378bb422a94d9e7f72a8b31f521e81f95e2cefc36a0ba7cfd104"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/bootstrap-icons-BOrJxbIo.woff",
+            "size": 176032,
+            "hash": "bb1de989b83970f6f4e54de1cd974c5cba55b73582da5e1b225a6d0edf029483"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/bootstrap-icons-BtvjY1KL.woff2",
+            "size": 130396,
+            "hash": "476adf42b40325098fcfa8b36ab3e769186bb4f6ce6a249753e2e1a9c22bf99e"
+        },
+        {
+            "type": "file",
+            "name": "mimap_SANTIAGO/v0.1/index.html",
+            "size": 5660,
+            "hash": "3987b07a88e2a850134ade407e9fec459e356d8a88097b6bd693a7a34be4e5e5"
+        },
+        {
+            "type": "file",
+            "name": "mimap_SANTIAGO/v0.1/index-DqMKcRVy.js",
+            "size": 292636,
+            "hash": "6078ca18bd6bf1e09550610666e608967f1f928a7503d1a1589cf5dc73beb27b"
+        },
+        {
+            "type": "file",
+            "name": "mimap_SANTIAGO/v0.11/index-CUZQ0HUi.js",
+            "size": 292636,
+            "hash": "51b70bcb97f99b964b819b94ff73e6ba8f96180d31931fda8421ddcf2123cc36"
+        },
+        {
+            "type": "file",
+            "name": "mimap_SANTIAGO/v0.11/index.html",
+            "size": 5660,
+            "hash": "837a2235df852b1d35e487afce21a3686b3266d54d0b9952b11563158334ec35"
+        },
+        {
+            "type": "file",
+            "name": "mimap_SANTIAGO/v0.13d/index-B-MHSEzo.js",
+            "size": 293172,
+            "hash": "55ccf53d51397bd2a894d81cdca5caf3d3dedb65f63ed17000f48b4ac8c77247"
+        },
+        {
+            "type": "file",
+            "name": "mimap_SANTIAGO/v0.13d/index.html",
+            "size": 6151,
+            "hash": "7a6429c694fa4ed6f77e0d2aeda6718f694c303aee10990a76bf59a287eefc78"
+        },
+        {
+            "type": "file",
+            "name": "mimap_SANTIAGO/v0.14d/index-DnXPzcGB.js",
+            "size": 293833,
+            "hash": "2bfcf44f1a05838666fd63c7ad21b4537240706bf8f0d1c42df73cb141ed6761"
+        },
+        {
+            "type": "file",
+            "name": "mimap_SANTIAGO/v0.14d/index.html",
+            "size": 6370,
+            "hash": "7908340b447835e4f503648f52e2be411115570ced6bff0efe6559bc46091980"
+        }
+    ]
+}
